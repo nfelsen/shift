@@ -30,6 +30,8 @@ gem 'uglifier'
 gem 'therubyracer'
 gem "libv8"
 
+gem "bigdecimal"
+
 # create images from html
 gem 'wkhtmltoimage-binary'
 gem 'imgkit'
